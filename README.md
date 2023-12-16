@@ -6,8 +6,7 @@ I’m currently learning Angular and Data Structures and Algorithms (DSA).  I ha
 
 💞️ I’m looking to collaborate on skip lists for external storage.  My best idea is to allow overlapping keys and values.
 And then provide a background process to go back and fix the overlapping keys and values, by merging, sorting and splitting
-them.  I'm working on skip lists for external storage slowly.  Doing Proof of Concepts on individual ideas.  And then
-doing performance testing.
+them.  I'm working on skip lists for external storage slowly.  Doing Proof of Concepts and Performance Timing and Tuning.
 
 📫 How to reach me email.  Apologies, I'm busy and hard to reach.  No haters or spammers please.
 
